@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Why do we need that?",
+      "author": "S.King",
+      "id": 1
+    },
+    {
+      "title": "My second blog",
+      "body": "Because the  reading is important",
+      "author": "R.Queen",
+      "id": 2
+    },
+    {
+      "title": "My third blog",
+      "body": "Gosh, fuck that",
+      "author": "E.Derulo",
+      "id": 3
+    }
+  ]
+}
